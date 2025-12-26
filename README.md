@@ -1,8 +1,11 @@
-# Mine-Portfolio
-This website is made by me and every single letter in the code is describing my life and learning 
+
 ## Hypefolio 🔥
 
 Hypefolio is a feature-rich portfolio website designed to showcase your projects and skills in a captivating way. Built with a tech stack of HTML, CSS, and JavaScript, this responsive portfolio ensures a seamless experience across devices.
+## Demo
+
+https://harisahmad.netlify.app
+
 
 ## Features
 
@@ -14,15 +17,19 @@ Hypefolio is a feature-rich portfolio website designed to showcase your projects
 - Dark/Light Toggle Modes 🤘
 
 
+
+
 ## 🚀 About Me
-Hello, I'm Shivam Agarwal, the visionary mind behind Hypefolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
+Hello, I'm Haris Ahmad, the visionary mind behind Hypefolio – a groundbreaking open-source portfolio website. Dive into the world of coding excellence with Hypefolio's freely available source code, empowering anyone to craft their digital showcase effortlessly. 🌐✨
 
 Connect with me on LinkedIn to stay in the loop with my professional journey and discover insights into the evolving tech landscape.
 
-My Linkedin: https://www.linkedin.com/in/shivam-agarwal-5a2524320/
+My Linkedin: https://www.linkedin.com/in/harisahmad59
+
 Your journey doesn't stop there! Join me on Instagram for a closer look at my content, where I share coding tips, project highlights, and more. Don't miss out – your coding adventure awaits! 🔍💡 
 
-Instagram: https://www.instagram.com/shivamagarwal_05/
+Instagram: https://www.instagram.com/codehype_/
+
 
 ## Tech Stack
 
@@ -33,7 +40,7 @@ Instagram: https://www.instagram.com/shivamagarwal_05/
 
 ```
 # Clone this repository
-$ git clone 
+$ git clone https://github.com/harisahmad59/Hypefolio
 
 # Go into the repository
 $ cd Hypefolio
